@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] roman es el mejor
+- [x] riquelme es el mejor
+- [ ] cualquier otro es mejor que riquelme
